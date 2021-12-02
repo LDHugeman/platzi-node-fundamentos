@@ -1,4 +1,4 @@
-//log, info, error, warn, table, group
+//log, info, error, warn, table, group, count
 var tabla = [
   {
     a: 1,
